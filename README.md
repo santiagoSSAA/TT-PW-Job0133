@@ -4,7 +4,7 @@ This is the TT/PW exercise made in Python using FastAPI.
 
 ## Prerequisites 📋
 
-- Python 3.7 or higher 🐍
+- Python 3.11 or higher 🐍
 - `pip` package manager 📦
 
 ## Install the dependencies 📥
